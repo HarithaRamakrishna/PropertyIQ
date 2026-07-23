@@ -1,0 +1,7 @@
+gradio
+pydantic
+python-dotenv
+chromadb
+sentence-transformers
+pandas
+numpy
