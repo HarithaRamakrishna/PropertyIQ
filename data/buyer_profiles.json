@@ -1,0 +1,127 @@
+[
+  {
+    "buyer_id": "B001",
+    "name": "David and Elena Torres",
+    "persona": "First-time home buyers",
+    "budget_min": 350000,
+    "budget_max": 450000,
+    "preferred_neighborhoods": ["Maple Heights"],
+    "must_haves": [
+      "3 bedrooms",
+      "good school district",
+      "under $450K"
+    ],
+    "nice_to_haves": [
+      "backyard",
+      "updated kitchen",
+      "short commute"
+    ],
+    "rejected_listings": [
+      {
+        "listing_id": "L004",
+        "address": "22 Elm Street",
+        "reason": "Already passed on this home"
+      }
+    ]
+  },
+  {
+    "buyer_id": "B002",
+    "name": "Maya Chen",
+    "persona": "Single professional buyer",
+    "budget_min": 300000,
+    "budget_max": 500000,
+    "preferred_neighborhoods": ["Downtown Edge", "Maple Heights"],
+    "must_haves": [
+      "short commute",
+      "2 bedrooms",
+      "low maintenance"
+    ],
+    "nice_to_haves": [
+      "condo or townhouse",
+      "walkable area",
+      "garage parking"
+    ],
+    "rejected_listings": [
+      {
+        "listing_id": "L008",
+        "address": "19 Pine Avenue",
+        "reason": "Commute was longer than preferred"
+      }
+    ]
+  },
+  {
+    "buyer_id": "B003",
+    "name": "Jordan Morgan",
+    "persona": "Budget-conscious buyer",
+    "budget_min": 250000,
+    "budget_max": 375000,
+    "preferred_neighborhoods": ["Oak Valley", "Maple Heights"],
+    "must_haves": [
+      "affordable monthly payment",
+      "2 bedrooms",
+      "move-in ready"
+    ],
+    "nice_to_haves": [
+      "lower property taxes",
+      "small yard",
+      "energy efficient appliances"
+    ],
+    "rejected_listings": [
+      {
+        "listing_id": "L011",
+        "address": "75 Cedar Court",
+        "reason": "Price was too high after estimated monthly payment"
+      }
+    ]
+  },
+  {
+    "buyer_id": "B004",
+    "name": "Priya and Arjun Patel",
+    "persona": "Growing household",
+    "budget_min": 425000,
+    "budget_max": 600000,
+    "preferred_neighborhoods": ["Maple Heights", "Lakeview Ridge"],
+    "must_haves": [
+      "4 bedrooms",
+      "good school district",
+      "larger square footage"
+    ],
+    "nice_to_haves": [
+      "home office",
+      "backyard",
+      "near parks"
+    ],
+    "rejected_listings": [
+      {
+        "listing_id": "L006",
+        "address": "40 Birch Lane",
+        "reason": "Too small for their space needs"
+      }
+    ]
+  },
+  {
+    "buyer_id": "B005",
+    "name": "Sofia Rivera",
+    "persona": "Commuter-focused buyer",
+    "budget_min": 325000,
+    "budget_max": 475000,
+    "preferred_neighborhoods": ["Transit Grove", "Downtown Edge"],
+    "must_haves": [
+      "short commute",
+      "3 bedrooms",
+      "near transit"
+    ],
+    "nice_to_haves": [
+      "garage",
+      "updated bathrooms",
+      "near grocery stores"
+    ],
+    "rejected_listings": [
+      {
+        "listing_id": "L009",
+        "address": "12 Willow Street",
+        "reason": "Too far from transit options"
+      }
+    ]
+  }
+]
